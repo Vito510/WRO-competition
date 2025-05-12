@@ -1,4 +1,4 @@
-# WRO Future Engineers Competition [Team InFERno]
+# WRO Future Engineers [Team InFERno]
 
 ## 🏆 Project Overview
 
